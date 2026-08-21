@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "name": "q3tqui34hytuiq3hy",
+      "category": "Stationery",
+      "stock": 23,
+      "price": 60,
+      "supplier": "",
+      "gst": 0,
+      "cost": 90,
+      "status": "active",
+      "id": 1
+    },
+    {
+      "name": "b2b",
+      "category": "Stationery",
+      "stock": 16,
+      "price": 250,
+      "supplier": "",
+      "gst": 18,
+      "cost": 300,
+      "status": "active",
+      "id": 2
+    },
+    {
+      "name": "itc a4",
+      "category": "Stationery",
+      "stock": 19,
+      "price": 250,
+      "supplier": "",
+      "gst": 18,
+      "cost": 300,
+      "status": "active",
+      "id": 3
+    },
+    {
+      "name": "sheet",
+      "category": "Other",
+      "stock": 10,
+      "price": 50,
+      "supplier": "",
+      "gst": 0,
+      "cost": 90,
+      "status": "active",
+      "id": 4
+    }
+  ],
+  "customers": [],
+  "purchases": [],
+  "sales": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "Ramesh Kumar",
+      "username": "admin",
+      "password": "admin",
+      "role": "Admin",
+      "status": "active",
+      "permissions": {
+        "dashboard": true,
+        "pos": true,
+        "products": true,
+        "inventory": true,
+        "purchases": true,
+        "customers": true,
+        "reports": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sunita Bai",
+      "username": "sunita",
+      "password": "staff123",
+      "role": "Cashier",
+      "status": "active",
+      "permissions": {
+        "dashboard": false,
+        "pos": true,
+        "products": false,
+        "inventory": true,
+        "purchases": false,
+        "customers": true,
+        "reports": false
+      }
+    },
+    {
+      "id": 3,
+      "name": "Amit Sharma",
+      "username": "amit",
+      "password": "staff123",
+      "role": "Staff",
+      "status": "active",
+      "permissions": {
+        "dashboard": false,
+        "pos": false,
+        "products": true,
+        "inventory": true,
+        "purchases": true,
+        "customers": false,
+        "reports": false
+      }
+    }
+  ]
+}

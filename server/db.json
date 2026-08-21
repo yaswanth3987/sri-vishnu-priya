@@ -1,0 +1,7161 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dettol hand wash",
+      "category": "Stationery",
+      "stock": 829,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 2,
+      "name": "Eraser 1pic",
+      "category": "Stationery",
+      "stock": 842,
+      "price": 5,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 3,
+      "name": "Sharpnes",
+      "category": "Stationery",
+      "stock": 842,
+      "price": 5,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 4,
+      "name": "Brown sheet",
+      "category": "Stationery",
+      "stock": 835,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 5,
+      "name": "No4 book binging single rule",
+      "category": "Stationery",
+      "stock": 836,
+      "price": 240,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 6,
+      "name": "No1 book binging single rule",
+      "category": "Stationery",
+      "stock": 809,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 8,
+      "name": "Legal papers",
+      "category": "Stationery",
+      "stock": 831,
+      "price": 350,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 9,
+      "name": "Cloth binging book no1",
+      "category": "Stationery",
+      "stock": 843,
+      "price": 160,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 10,
+      "name": "Box files",
+      "category": "Stationery",
+      "stock": 829,
+      "price": 120,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 11,
+      "name": "Fevi stick",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 12,
+      "name": "Fevi stick",
+      "category": "Stationery",
+      "stock": 842,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 13,
+      "name": "Fevi stick",
+      "category": "Stationery",
+      "stock": 847,
+      "price": 50,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 14,
+      "name": "Fevi stick",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 15,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 15,
+      "name": "No 10 pin",
+      "category": "Stationery",
+      "stock": 843,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 16,
+      "name": "Pin 24/6",
+      "category": "Stationery",
+      "stock": 838,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 17,
+      "name": "Pin machine hp45",
+      "category": "Stationery",
+      "stock": 845,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 18,
+      "name": "Punching machine",
+      "category": "Stationery",
+      "stock": 847,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 19,
+      "name": "Colour paper",
+      "category": "Stationery",
+      "stock": 842,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 20,
+      "name": "Date stamp",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 21,
+      "name": "Scale",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 22,
+      "name": "Iron scale",
+      "category": "Stationery",
+      "stock": 847,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 23,
+      "name": "Pen box",
+      "category": "Stationery",
+      "stock": 845,
+      "price": 90,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 24,
+      "name": "Pen box",
+      "category": "Stationery",
+      "stock": 835,
+      "price": 80,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 25,
+      "name": "OHP sheet",
+      "category": "Stationery",
+      "stock": 846,
+      "price": 400,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 26,
+      "name": "Files cover",
+      "category": "Stationery",
+      "stock": 846,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 27,
+      "name": "Pads",
+      "category": "Stationery",
+      "stock": 841,
+      "price": 35,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 28,
+      "name": "Marker small  blu",
+      "category": "Stationery",
+      "stock": 840,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 29,
+      "name": "Transparent plastic",
+      "category": "Stationery",
+      "stock": 840,
+      "price": 50,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 30,
+      "name": "Double sided tape",
+      "category": "Stationery",
+      "stock": 836,
+      "price": 50,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 31,
+      "name": "Glitter plaster",
+      "category": "Stationery",
+      "stock": 840,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 32,
+      "name": "Chart",
+      "category": "Stationery",
+      "stock": 726,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 33,
+      "name": "Brown rapers",
+      "category": "Stationery",
+      "stock": 738,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 34,
+      "name": "Files rapers",
+      "category": "Stationery",
+      "stock": 841,
+      "price": 150,
+      "cost": 150,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 35,
+      "name": "Pencil box",
+      "category": "Stationery",
+      "stock": 846,
+      "price": 60,
+      "cost": 60,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 36,
+      "name": "A4 paper",
+      "category": "Stationery",
+      "stock": 820,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 37,
+      "name": "Pp cover 1kg",
+      "category": "Stationery",
+      "stock": 844,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 38,
+      "name": "Carbon single side packet",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 200,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 39,
+      "name": "Carbon double sided",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 200,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 40,
+      "name": "No2 binging book single rule",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 120,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 41,
+      "name": "No3 binging book single rule",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 180,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 42,
+      "name": "No5 binging book single rule",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 43,
+      "name": "L folding packet",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 50,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 44,
+      "name": "Cloth binging no2",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 240,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 45,
+      "name": "Cloth binging book no3",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 320,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 46,
+      "name": "Cloth binging book no4",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 400,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 47,
+      "name": "Cloth binging book no5",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 480,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 48,
+      "name": "Urgent ordinary pad",
+      "category": "Stationery",
+      "stock": 797,
+      "price": 30,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 49,
+      "name": "Four folder",
+      "category": "Stationery",
+      "stock": 847,
+      "price": 80,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 50,
+      "name": "Marker blue big",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 51,
+      "name": "Marker black Big",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 52,
+      "name": "Marker red Big",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 53,
+      "name": "Marker green big",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 54,
+      "name": "Executive bag",
+      "category": "Stationery",
+      "stock": 846,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 55,
+      "name": "Whitener pens",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 30,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 56,
+      "name": "Sticker files",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 57,
+      "name": "Gum bottle",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 30,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 58,
+      "name": "Gum bottle",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 45,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 59,
+      "name": "Gum bottle",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 60,
+      "name": "Highlights",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 61,
+      "name": "Kantana",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 50,
+      "cost": 0,
+      "gst": 18,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 62,
+      "name": "Pin machine hp 10",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 63,
+      "name": "Rubber band 1/4kg",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 64,
+      "name": "Check pencil",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 7,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 65,
+      "name": "Rubber band 1/2",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 66,
+      "name": "Stamp pad",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 35,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 67,
+      "name": "Stamp pad  medium",
+      "category": "Stationery",
+      "stock": 820,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 68,
+      "name": "Stamp pad ink small",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 35,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 69,
+      "name": "Stamp pad ink big",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 80,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 70,
+      "name": "Cash bag",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 500,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 71,
+      "name": "Brown tap 2inc",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 72,
+      "name": "Spiral notebook",
+      "category": "Stationery",
+      "stock": 820,
+      "price": 50,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 73,
+      "name": "White long notes",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 74,
+      "name": "Marker small red",
+      "category": "Stationery",
+      "stock": 845,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 75,
+      "name": "Marker small green",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 76,
+      "name": "Pen drive",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 77,
+      "name": "Calculator",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 78,
+      "name": "Calculator  big",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 500,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 79,
+      "name": "Concriest paper",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 200,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 80,
+      "name": "Pvc  cover  12p",
+      "category": "Stationery",
+      "stock": 847,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 81,
+      "name": "Travel bag plastic big",
+      "category": "Stationery",
+      "stock": 846,
+      "price": 2500,
+      "cost": 0,
+      "gst": 18,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 82,
+      "name": "6 class text book",
+      "category": "Books",
+      "stock": 813,
+      "price": 1000,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 83,
+      "name": "Sp tags",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 84,
+      "name": "Tags",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 30,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 85,
+      "name": "Bell pins",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 86,
+      "name": "Jump clips",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 87,
+      "name": "Broom stick",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 88,
+      "name": "Clips",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 50,
+      "cost": 60,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 89,
+      "name": "Pullala chipiri",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 50,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 90,
+      "name": "Cleaning stick",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 91,
+      "name": "Cleaning wrappers",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 92,
+      "name": "Door mats",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 93,
+      "name": "Dust bin",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 80,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 94,
+      "name": "Bucket big",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 180,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 95,
+      "name": "Bucket small",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 120,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 96,
+      "name": "Mug",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 97,
+      "name": "Water bottle plastic",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 70,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 98,
+      "name": "Water bottle steel",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 200,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 99,
+      "name": "Phenyl bottle",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 80,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 100,
+      "name": "Acid",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 90,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 101,
+      "name": "Room spray",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 200,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.880857+00:00"
+    },
+    {
+      "id": 102,
+      "name": "All out mission",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 99,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 103,
+      "name": "Paper weight rubber",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 104,
+      "name": "Paper weight glass",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 105,
+      "name": "Magnetic 🧲",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 40,
+      "cost": 0,
+      "gst": 5,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 106,
+      "name": "Meal plates",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 107,
+      "name": "Water jug",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 80,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 108,
+      "name": "Flask",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 400,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 109,
+      "name": "Water glass",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 110,
+      "name": "Hot box",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 111,
+      "name": "Spoon",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 112,
+      "name": "Cup saser set",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 800,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 113,
+      "name": "Flag cloth",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 114,
+      "name": "Dust cloth",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 115,
+      "name": "Bed sheet",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 116,
+      "name": "Pillow cover",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 117,
+      "name": "Towel",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 350,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 118,
+      "name": "Naphkins",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 119,
+      "name": "Yellow cloth",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 120,
+      "name": "Carrage",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 350,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 121,
+      "name": "Steel basin",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 122,
+      "name": "Steel bucket 🪣",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 123,
+      "name": "Stool",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 124,
+      "name": "Touch light",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 125,
+      "name": "Calling bell",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 750,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 126,
+      "name": "Battery aa",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 127,
+      "name": "Battery aaa",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 128,
+      "name": "Naphthalene balls 1kg",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 129,
+      "name": "Kinfe",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 130,
+      "name": "Scissor",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 131,
+      "name": "Damper",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 132,
+      "name": "Pen stand",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 133,
+      "name": "Surf",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 250,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 134,
+      "name": "Cash checking mission",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 750,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 135,
+      "name": "Hit",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 120,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 136,
+      "name": "Steel can",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 500,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 137,
+      "name": "Umbrella",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 138,
+      "name": "Mouse",
+      "category": "Stationery",
+      "stock": 960,
+      "price": 350,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 139,
+      "name": "Mouse pad",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 140,
+      "name": "Tap cutter  small",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 20,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 141,
+      "name": "Tap cutter big",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 30,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 142,
+      "name": "Odonil",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 50,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 143,
+      "name": "Notices board 4*6",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 4800,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 144,
+      "name": "White board marker red",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 145,
+      "name": "White board marker blue",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 146,
+      "name": "White board marker green",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 147,
+      "name": "White board marker black",
+      "category": "Stationery",
+      "stock": 858,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 148,
+      "name": "Plastic box",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 149,
+      "name": "Wall clock",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 350,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 150,
+      "name": "7class textbook sem 1",
+      "category": "Books",
+      "stock": 816,
+      "price": 650,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 151,
+      "name": "7class textbook sem 2",
+      "category": "Books",
+      "stock": 816,
+      "price": 640,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 152,
+      "name": "8class textbook sem 1",
+      "category": "Books",
+      "stock": 807,
+      "price": 680,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 153,
+      "name": "8class textbook sem 2",
+      "category": "Books",
+      "stock": 850,
+      "price": 800,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 154,
+      "name": "9class textbook",
+      "category": "Books",
+      "stock": 848,
+      "price": 1000,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 155,
+      "name": "10class textbook",
+      "category": "Books",
+      "stock": 850,
+      "price": 1150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 156,
+      "name": "1 class text book",
+      "category": "Books",
+      "stock": 850,
+      "price": 700,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 157,
+      "name": "2class text",
+      "category": "Books",
+      "stock": 850,
+      "price": 700,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 158,
+      "name": "3class textbook",
+      "category": "Books",
+      "stock": 858,
+      "price": 700,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 159,
+      "name": "4 class text book",
+      "category": "Books",
+      "stock": 849,
+      "price": 700,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 160,
+      "name": "5class text book",
+      "category": "Books",
+      "stock": 849,
+      "price": 800,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 161,
+      "name": "chart",
+      "category": "Stationery",
+      "stock": 190,
+      "price": 30,
+      "cost": 30,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 162,
+      "name": "3/4 notes",
+      "category": "Stationery",
+      "stock": 699,
+      "price": 30,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 163,
+      "name": "notes white",
+      "category": "Books",
+      "stock": 825,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 164,
+      "name": "book covers",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 60,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 165,
+      "name": "10 class hinid  ACTION PLAN",
+      "category": "Books",
+      "stock": 822,
+      "price": 135,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 166,
+      "name": "CMR [h]",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 167,
+      "name": "PMR",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 100,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 168,
+      "name": "Cope wrting",
+      "category": "Books",
+      "stock": 845,
+      "price": 25,
+      "cost": 25,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 169,
+      "name": "diary book colour",
+      "category": "Stationery",
+      "stock": 818,
+      "price": 40,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 170,
+      "name": "files rapers",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 5,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 171,
+      "name": "register",
+      "category": "Stationery",
+      "stock": 830,
+      "price": 200,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 172,
+      "name": "double side tape",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 173,
+      "name": "fevicol",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 10,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 174,
+      "name": "fevicol",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 25,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 175,
+      "name": "class mate notes single rule",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 220,
+      "cost": 230,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 176,
+      "name": "classmates notes 3/4 crown",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 45,
+      "cost": 48,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 177,
+      "name": "k.v cover",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 15,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 178,
+      "name": "CASIO MS calculator",
+      "category": "Stationery",
+      "stock": 250,
+      "price": 1200,
+      "cost": 1240,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 179,
+      "name": "CHAIR",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 900,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 180,
+      "name": "CHAIR",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 1000,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 181,
+      "name": "CHAIR PAD",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 150,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 182,
+      "name": "CHAIR PAD SUNGLASS",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 200,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 183,
+      "name": "PUNCHING MACHAIN",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 1700,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 184,
+      "name": "FILE CLIPES",
+      "category": "Stationery",
+      "stock": 847,
+      "price": 220,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 185,
+      "name": "LINE PINS GEL BOX",
+      "category": "Stationery",
+      "stock": 849,
+      "price": 180,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 186,
+      "name": "math action plan",
+      "category": "Stationery",
+      "stock": 807,
+      "price": 135,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "sr publication",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 187,
+      "name": "10 class ns",
+      "category": "Stationery",
+      "stock": 846,
+      "price": 63,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "SR",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 188,
+      "name": "10 CLASS PS ACTION PLAN",
+      "category": "Stationery",
+      "stock": 843,
+      "price": 81,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "SR",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 189,
+      "name": "10 CLASS SOCIAL ACTION PLAN",
+      "category": "Stationery",
+      "stock": 843,
+      "price": 81,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 190,
+      "name": "10 CLASS ENGLISH ACTION PLAN",
+      "category": "Stationery",
+      "stock": 843,
+      "price": 135,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 191,
+      "name": "10 CLASS HINDI ACTION PLAN",
+      "category": "Stationery",
+      "stock": 843,
+      "price": 81,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 192,
+      "name": "10 CLASS TELUGU ACTION PLAN",
+      "category": "Stationery",
+      "stock": 843,
+      "price": 99,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 193,
+      "name": "zip files 24 f",
+      "category": "Stationery",
+      "stock": 848,
+      "price": 300,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 194,
+      "name": "zip files 12f",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 230,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 195,
+      "name": "KORES DUSTLESS CHALK",
+      "category": "Stationery",
+      "stock": 814,
+      "price": 67,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    },
+    {
+      "id": 196,
+      "name": "COLIN",
+      "category": "Stationery",
+      "stock": 850,
+      "price": 120,
+      "cost": 0,
+      "gst": 0,
+      "supplier": "",
+      "status": "active",
+      "created_at": "2026-08-21T13:00:13.958843+00:00"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "name": "Boi",
+      "type": "Bank",
+      "phone": "1",
+      "email": "",
+      "total": 0,
+      "visits": 1,
+      "lastVisit": "16/07/2026",
+      "dueAmount": 0,
+      "creditLimit": 0,
+      "khata": []
+    },
+    {
+      "id": 2,
+      "name": "Andhra Bank",
+      "type": "Bank",
+      "phone": "2",
+      "email": "",
+      "total": 0,
+      "visits": 1,
+      "lastVisit": "16/07/2026",
+      "dueAmount": 0,
+      "creditLimit": 0,
+      "khata": []
+    },
+    {
+      "id": 3,
+      "name": "SBI",
+      "type": "Bank",
+      "phone": "-",
+      "email": "",
+      "total": 0,
+      "visits": 1,
+      "lastVisit": "16/07/2026",
+      "dueAmount": 0,
+      "creditLimit": 0,
+      "khata": []
+    },
+    {
+      "id": 4,
+      "name": "KRISHNAVANI JR COLLAGE",
+      "type": "College",
+      "phone": "-",
+      "email": "",
+      "total": 0,
+      "visits": 1,
+      "lastVisit": "27/07/2026",
+      "dueAmount": 0,
+      "creditLimit": 0,
+      "khata": [
+        {
+          "id": "PAY-25291",
+          "date": "27 Jul 2026",
+          "note": "Cash Payment Received",
+          "type": "payment",
+          "amount": 30000,
+          "balance": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "BANK OF INDIA SATTENAPALLI",
+      "type": "Bank",
+      "phone": "-",
+      "email": "",
+      "total": 0,
+      "visits": 1,
+      "lastVisit": "30/07/2026",
+      "dueAmount": 0,
+      "creditLimit": 0,
+      "khata": []
+    },
+    {
+      "id": 6,
+      "name": "LIC SATTENAPALLI",
+      "type": "Office",
+      "phone": "-",
+      "email": "",
+      "total": 0,
+      "visits": 1,
+      "lastVisit": "30/07/2026",
+      "dueAmount": 0,
+      "creditLimit": 0,
+      "khata": []
+    }
+  ],
+  "sales": [
+    {
+      "id": 1,
+      "billNumber": 1,
+      "billDate": "2026-07-11",
+      "createdAt": "2026-07-11T14:44:48.81+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1,
+          "gst": 0,
+          "qty": 1,
+          "name": "q3tqui34hytuiq3hy",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 2,
+          "gst": 18,
+          "qty": 1,
+          "name": "b2b",
+          "price": 250,
+          "category": "Stationery"
+        },
+        {
+          "id": 3,
+          "gst": 18,
+          "qty": 1,
+          "name": "itc a4",
+          "price": 250,
+          "category": "Stationery"
+        }
+      ],
+      "total": 560,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 2,
+      "billNumber": 2,
+      "billDate": "2026-07-12",
+      "createdAt": "2026-07-12T12:54:19.785+00:00",
+      "customer": "Medical officer primary health centre,Attaluru ",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1,
+          "gst": 0,
+          "qty": 20,
+          "name": "Dettol hand wash",
+          "price": 100,
+          "category": "Stationery"
+        },
+        {
+          "id": 2,
+          "gst": 0,
+          "qty": 5,
+          "name": "Eraser 1pic",
+          "price": 5,
+          "category": "Stationery"
+        },
+        {
+          "id": 3,
+          "gst": 0,
+          "qty": 5,
+          "name": "Sharpnes",
+          "price": 5,
+          "category": "Stationery"
+        },
+        {
+          "id": 4,
+          "gst": 0,
+          "qty": 15,
+          "name": "Brown sheet",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 5,
+          "gst": 0,
+          "qty": 10,
+          "name": "No4 book binging",
+          "price": 220,
+          "category": "Stationery"
+        },
+        {
+          "id": 6,
+          "gst": 0,
+          "qty": 40,
+          "name": "No1 book binging",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 36,
+          "gst": 0,
+          "qty": 7,
+          "name": "A4 paper",
+          "price": 250,
+          "category": "Stationery"
+        },
+        {
+          "id": 8,
+          "gst": 0,
+          "qty": 5,
+          "name": "Legal papers",
+          "price": 350,
+          "category": "Stationery"
+        },
+        {
+          "id": 9,
+          "gst": 0,
+          "qty": 5,
+          "name": "Cloth binging book",
+          "price": 560,
+          "category": "Stationery"
+        },
+        {
+          "id": 10,
+          "gst": 0,
+          "qty": 12,
+          "name": "Box files",
+          "price": 120,
+          "category": "Stationery"
+        },
+        {
+          "id": 12,
+          "gst": 0,
+          "qty": 6,
+          "name": "Fevi stick",
+          "price": 40,
+          "category": "Stationery"
+        },
+        {
+          "id": 15,
+          "gst": 0,
+          "qty": 5,
+          "name": "No 10 pin",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 16,
+          "gst": 0,
+          "qty": 7,
+          "name": "Pin 24/6",
+          "price": 25,
+          "category": "Stationery"
+        },
+        {
+          "id": 17,
+          "gst": 0,
+          "qty": 2,
+          "name": "Pin machine hp45",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 18,
+          "gst": 0,
+          "qty": 1,
+          "name": "Punching machine",
+          "price": 250,
+          "category": "Stationery"
+        },
+        {
+          "id": 19,
+          "gst": 0,
+          "qty": 6,
+          "name": "Colour paper",
+          "price": 150,
+          "category": "Stationery"
+        },
+        {
+          "id": 20,
+          "gst": 0,
+          "qty": 1,
+          "name": "Date stamp",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 35,
+          "gst": 0,
+          "qty": 2,
+          "name": "Pencil box",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 21,
+          "gst": 0,
+          "qty": 2,
+          "name": "Scale",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 22,
+          "gst": 0,
+          "qty": 2,
+          "name": "Iron scale",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 23,
+          "gst": 0,
+          "qty": 3,
+          "name": "Pen box",
+          "price": 90,
+          "category": "Stationery"
+        },
+        {
+          "id": 25,
+          "gst": 0,
+          "qty": 3,
+          "name": "OHP sheet",
+          "price": 400,
+          "category": "Stationery"
+        },
+        {
+          "id": 26,
+          "gst": 0,
+          "qty": 4,
+          "name": "Files cover",
+          "price": 150,
+          "category": "Stationery"
+        },
+        {
+          "id": 27,
+          "gst": 0,
+          "qty": 7,
+          "name": "Pads",
+          "price": 35,
+          "category": "Stationery"
+        },
+        {
+          "id": 28,
+          "gst": 0,
+          "qty": 10,
+          "name": "Marker",
+          "price": 30,
+          "category": "Stationery"
+        },
+        {
+          "id": 29,
+          "gst": 0,
+          "qty": 8,
+          "name": "Transparent plastic",
+          "price": 50,
+          "category": "Stationery"
+        },
+        {
+          "id": 30,
+          "gst": 0,
+          "qty": 10,
+          "name": "Double sided tape",
+          "price": 40,
+          "category": "Stationery"
+        },
+        {
+          "id": 31,
+          "gst": 0,
+          "qty": 10,
+          "name": "Glitter plaster",
+          "price": 40,
+          "category": "Stationery"
+        },
+        {
+          "id": 32,
+          "gst": 0,
+          "qty": 100,
+          "name": "Chart",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 33,
+          "gst": 0,
+          "qty": 100,
+          "name": "Brown rapers",
+          "price": 15,
+          "category": "Stationery"
+        },
+        {
+          "id": 34,
+          "gst": 0,
+          "qty": 8,
+          "name": "Files rapers",
+          "price": 150,
+          "category": "Stationery"
+        }
+      ],
+      "total": 25340,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 3,
+      "billNumber": 3,
+      "billDate": "2026-07-16",
+      "createdAt": "2026-07-16T12:46:25.978+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1,
+          "gst": 18,
+          "qty": 1,
+          "name": "A4 Ruled Notebook 200pg",
+          "price": 65,
+          "category": "Stationery"
+        },
+        {
+          "id": 2,
+          "gst": 18,
+          "qty": 1,
+          "name": "Classmate Geometry Box",
+          "price": 125,
+          "category": "School"
+        }
+      ],
+      "total": 190,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 4,
+      "billNumber": 4,
+      "billDate": "2026-07-17",
+      "createdAt": "2026-07-17T06:11:52.73+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1,
+          "gst": 0,
+          "qty": 1,
+          "name": "Dettol hand wash",
+          "price": 100,
+          "category": "Stationery"
+        },
+        {
+          "id": 2,
+          "gst": 0,
+          "qty": 1,
+          "name": "Eraser 1pic",
+          "price": 5,
+          "category": "Stationery"
+        },
+        {
+          "id": 3,
+          "gst": 0,
+          "qty": 1,
+          "name": "Sharpnes",
+          "price": 5,
+          "category": "Stationery"
+        }
+      ],
+      "total": 110,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 5,
+      "billNumber": 5,
+      "billDate": "2026-07-17",
+      "createdAt": "2026-07-17T06:12:33.755+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 81,
+          "gst": 18,
+          "qty": 1,
+          "name": "Travel bag plastic big",
+          "price": 2500,
+          "category": "Stationery"
+        }
+      ],
+      "total": 2500,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 6,
+      "billNumber": 6,
+      "billDate": "2026-07-18",
+      "createdAt": "2026-07-18T17:14:54.294+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 82,
+          "gst": 0,
+          "qty": 1,
+          "name": "6 class text book",
+          "price": 1150,
+          "category": "Books"
+        },
+        {
+          "id": 79,
+          "gst": 0,
+          "qty": 1,
+          "name": "Concriest paper",
+          "price": 200,
+          "category": "Stationery"
+        },
+        {
+          "id": 78,
+          "gst": 0,
+          "qty": 1,
+          "name": "Calculator  big",
+          "price": 500,
+          "category": "Stationery"
+        },
+        {
+          "id": 80,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pvc  cover  12p",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 77,
+          "gst": 0,
+          "qty": 1,
+          "name": "Calculator",
+          "price": 150,
+          "category": "Stationery"
+        }
+      ],
+      "total": 2300,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 7,
+      "billNumber": 7,
+      "billDate": "2026-07-19",
+      "createdAt": "2026-07-19T15:40:06.24+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 82,
+          "gst": 0,
+          "qty": 1,
+          "name": "6 class text book",
+          "price": 1150,
+          "category": "Books"
+        }
+      ],
+      "total": 1150,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 8,
+      "billNumber": 8,
+      "billDate": "2026-07-19",
+      "createdAt": "2026-07-19T15:40:28.905+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 154,
+          "gst": 0,
+          "qty": 1,
+          "name": "9class textbook",
+          "price": 1000,
+          "category": "Books"
+        },
+        {
+          "id": 152,
+          "gst": 0,
+          "qty": 1,
+          "name": "8class textbook sem 1",
+          "price": 800,
+          "category": "Books"
+        }
+      ],
+      "total": 1800,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 9,
+      "billNumber": 9,
+      "billDate": "2026-07-19",
+      "createdAt": "2026-07-19T15:40:50.035+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 152,
+          "gst": 0,
+          "qty": 2,
+          "name": "8class textbook sem 1",
+          "price": 800,
+          "category": "Books"
+        }
+      ],
+      "total": 1600,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 10,
+      "billNumber": 10,
+      "billDate": "2026-07-20",
+      "createdAt": "2026-07-20T08:53:03.37+00:00",
+      "customer": "bellamkonda mandalla mahilla samkhya bellakonda",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784537329172,
+          "qty": 50,
+          "name": "note books",
+          "price": 12,
+          "category": "Custom"
+        },
+        {
+          "id": 1784537340468,
+          "qty": 1,
+          "name": "gum bottle",
+          "price": 40,
+          "category": "Custom"
+        },
+        {
+          "id": 1784537351267,
+          "qty": 1,
+          "name": "bag",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1784537363827,
+          "qty": 4,
+          "name": "pen boxes",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1784537384907,
+          "qty": 1,
+          "name": "iron  scale",
+          "price": 200,
+          "category": "Custom"
+        },
+        {
+          "id": 33,
+          "gst": 0,
+          "qty": 10,
+          "name": "Brown rapers",
+          "price": 20,
+          "category": "Stationery"
+        },
+        {
+          "id": 1784537431266,
+          "qty": 4,
+          "name": "sketches",
+          "price": 35,
+          "category": "Custom"
+        },
+        {
+          "id": 1784537446915,
+          "qty": 10,
+          "name": "markers",
+          "price": 12,
+          "category": "Custom"
+        },
+        {
+          "id": 1784537474714,
+          "qty": 10,
+          "name": "charts",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 13,
+          "gst": 0,
+          "qty": 2,
+          "name": "Fevi stick",
+          "price": 50,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1950,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 11,
+      "billNumber": 11,
+      "billDate": "2026-07-20",
+      "createdAt": "2026-07-20T16:35:34.7+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 82,
+          "gst": 0,
+          "qty": 1,
+          "name": "6 class text book",
+          "price": 1150,
+          "category": "Books"
+        },
+        {
+          "id": 150,
+          "gst": 0,
+          "qty": 1,
+          "name": "7class textbook sem 1",
+          "price": 700,
+          "category": "Books"
+        }
+      ],
+      "total": 1850,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 12,
+      "billNumber": 12,
+      "billDate": "2026-07-20",
+      "createdAt": "2026-07-20T16:40:57.252+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 162,
+          "gst": 0,
+          "qty": 276,
+          "name": "3/4 notes",
+          "price": 25,
+          "category": "Stationery"
+        },
+        {
+          "id": 24,
+          "gst": 0,
+          "qty": 4,
+          "name": "Pen box",
+          "price": 80,
+          "category": "Stationery"
+        },
+        {
+          "id": 35,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pencil box",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 1784565633979,
+          "qty": 2,
+          "name": "stale pencil",
+          "price": 10,
+          "category": "Custom"
+        }
+      ],
+      "total": 7300,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 13,
+      "billNumber": 13,
+      "billDate": "2026-07-20",
+      "createdAt": "2026-07-20T16:41:34.102+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 160,
+          "gst": 0,
+          "qty": 1,
+          "name": "5class text book",
+          "price": 800,
+          "category": "Books"
+        }
+      ],
+      "total": 800,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 14,
+      "billNumber": 14,
+      "billDate": "2026-07-20",
+      "createdAt": "2026-07-20T16:42:03.946+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 152,
+          "gst": 0,
+          "qty": 3,
+          "name": "8class textbook sem 1",
+          "price": 800,
+          "category": "Books"
+        }
+      ],
+      "total": 2400,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 15,
+      "billNumber": 15,
+      "billDate": "2026-07-21",
+      "createdAt": "2026-07-21T16:12:17.165+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 152,
+          "gst": 0,
+          "qty": 1,
+          "name": "8class textbook sem 1",
+          "price": 800,
+          "category": "Books"
+        },
+        {
+          "id": 163,
+          "gst": 0,
+          "qty": 12,
+          "name": "notes white",
+          "price": 40,
+          "category": "Books"
+        },
+        {
+          "id": 164,
+          "gst": 0,
+          "qty": 1,
+          "name": "book covers",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 15,
+          "gst": 0,
+          "qty": 1,
+          "name": "No 10 pin",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 30,
+          "gst": 0,
+          "qty": 1,
+          "name": "Double sided tape",
+          "price": 50,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1400,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 16,
+      "billNumber": 16,
+      "billDate": "2026-07-21",
+      "createdAt": "2026-07-21T16:21:18.497+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 165,
+          "gst": 0,
+          "qty": 21,
+          "name": "10 class hinid  mat",
+          "price": 297,
+          "category": "Books"
+        }
+      ],
+      "total": 4054,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 17,
+      "billNumber": 17,
+      "billDate": "2026-07-21",
+      "createdAt": "2026-07-21T16:24:23.837+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784651058436,
+          "qty": 1,
+          "name": "files,paperandetc....",
+          "price": 6375,
+          "category": "Custom"
+        }
+      ],
+      "total": 6375,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 18,
+      "billNumber": 18,
+      "billDate": "2026-07-21",
+      "createdAt": "2026-07-21T16:35:35.264+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 168,
+          "gst": 0,
+          "qty": 5,
+          "name": "Cope wrting",
+          "price": 25,
+          "category": "Books"
+        }
+      ],
+      "total": 125,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 19,
+      "billNumber": 19,
+      "billDate": "2026-07-21",
+      "createdAt": "2026-07-21T16:36:07.654+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784651769734,
+          "qty": 1,
+          "name": "notes",
+          "price": 320,
+          "category": "Custom"
+        }
+      ],
+      "total": 320,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 20,
+      "billNumber": 20,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T15:51:47.104+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 159,
+          "gst": 0,
+          "qty": 1,
+          "name": "4 class text book",
+          "price": 700,
+          "category": "Books"
+        },
+        {
+          "id": 164,
+          "gst": 0,
+          "qty": 1,
+          "name": "book covers",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 74,
+          "gst": 0,
+          "qty": 3,
+          "name": "Marker small red",
+          "price": 10,
+          "category": "Stationery"
+        }
+      ],
+      "total": 790,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 21,
+      "billNumber": 21,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T15:52:55.451+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 150,
+          "gst": 0,
+          "qty": 1,
+          "name": "7class textbook sem 1",
+          "price": 700,
+          "category": "Books"
+        },
+        {
+          "id": 151,
+          "gst": 0,
+          "qty": 1,
+          "name": "7class textbook sem 2",
+          "price": 600,
+          "category": "Books"
+        },
+        {
+          "id": 70,
+          "gst": 0,
+          "qty": 1,
+          "name": "Cash bag",
+          "price": 500,
+          "category": "Stationery"
+        },
+        {
+          "id": 73,
+          "gst": 0,
+          "qty": 2,
+          "name": "White long notes",
+          "price": 60,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1920,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 22,
+      "billNumber": 22,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T15:53:16.659+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 36,
+          "gst": 0,
+          "qty": 2,
+          "name": "A4 paper",
+          "price": 250,
+          "category": "Stationery"
+        }
+      ],
+      "total": 500,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 23,
+      "billNumber": 23,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T15:55:26.728+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 169,
+          "gst": 0,
+          "qty": 32,
+          "name": "diary book colour",
+          "price": 40,
+          "category": "Stationery"
+        },
+        {
+          "id": 52,
+          "gst": 0,
+          "qty": 1,
+          "name": "Marker red Big",
+          "price": 20,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1300,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 24,
+      "billNumber": 24,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T15:56:19.55+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 162,
+          "gst": 0,
+          "qty": 5,
+          "name": "3/4 notes",
+          "price": 30,
+          "category": "Stationery"
+        }
+      ],
+      "total": 150,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 25,
+      "billNumber": 25,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T15:56:56.949+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 154,
+          "gst": 0,
+          "qty": 1,
+          "name": "9class textbook",
+          "price": 1000,
+          "category": "Books"
+        },
+        {
+          "id": 5,
+          "gst": 0,
+          "qty": 1,
+          "name": "No4 book binging single rule",
+          "price": 240,
+          "category": "Stationery"
+        },
+        {
+          "id": 30,
+          "gst": 0,
+          "qty": 1,
+          "name": "Double sided tape",
+          "price": 50,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1290,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 26,
+      "billNumber": 26,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T16:37:41.652+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784738265673,
+          "qty": 1,
+          "name": "notes",
+          "price": 970,
+          "category": "Custom"
+        }
+      ],
+      "total": 970,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 27,
+      "billNumber": 27,
+      "billDate": "2026-07-22",
+      "createdAt": "2026-07-22T16:39:40.457+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 32,
+          "gst": 0,
+          "qty": 20,
+          "name": "Chart",
+          "price": 10,
+          "category": "Stationery"
+        }
+      ],
+      "total": 200,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 28,
+      "billNumber": 28,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:05:21.008+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 150,
+          "gst": 0,
+          "qty": 1,
+          "name": "7class textbook sem 1",
+          "price": 700,
+          "category": "Books"
+        }
+      ],
+      "total": 700,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 29,
+      "billNumber": 29,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:05:49.626+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 152,
+          "gst": 0,
+          "qty": 1,
+          "name": "8class textbook sem 1",
+          "price": 800,
+          "category": "Books"
+        }
+      ],
+      "total": 800,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 30,
+      "billNumber": 30,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:06:46.272+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784815612936,
+          "qty": 1,
+          "name": "START Q SECOND YEAR",
+          "price": 1000,
+          "category": "Custom"
+        }
+      ],
+      "total": 1000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 31,
+      "billNumber": 31,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:08:09.748+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784815696040,
+          "qty": 1,
+          "name": "7,9 MATERAL",
+          "price": 1250,
+          "category": "Custom"
+        }
+      ],
+      "total": 1250,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 32,
+      "billNumber": 32,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:10:54.445+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784815741069,
+          "qty": 1,
+          "name": "Iron box",
+          "price": 700,
+          "category": "Custom"
+        },
+        {
+          "id": 1784815748415,
+          "qty": 1,
+          "name": "Bag",
+          "price": 700,
+          "category": "Custom"
+        },
+        {
+          "id": 1784815791658,
+          "qty": 1,
+          "name": "Lock",
+          "price": 30,
+          "category": "Custom"
+        },
+        {
+          "id": 1784815835741,
+          "qty": 1,
+          "name": "Pens,pencils, stationery",
+          "price": 470,
+          "category": "Custom"
+        }
+      ],
+      "total": 1900,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 33,
+      "billNumber": 33,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:11:58.438+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784815904632,
+          "qty": 3,
+          "name": "Registers",
+          "price": 200,
+          "category": "Custom"
+        }
+      ],
+      "total": 600,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 34,
+      "billNumber": 34,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:14:53.614+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 24,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pen box",
+          "price": 80,
+          "category": "Stationery"
+        },
+        {
+          "id": 35,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pencil box",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 32,
+          "gst": 0,
+          "qty": 1,
+          "name": "Chart",
+          "price": 10,
+          "category": "Stationery"
+        }
+      ],
+      "total": 150,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 35,
+      "billNumber": 35,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:30:07.445+00:00",
+      "customer": "CTO OFFICE SAP",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 36,
+          "gst": 0,
+          "qty": 20,
+          "name": "A4 paper",
+          "price": 250,
+          "category": "Stationery"
+        },
+        {
+          "id": 8,
+          "gst": 0,
+          "qty": 10,
+          "name": "Legal papers",
+          "price": 350,
+          "category": "Stationery"
+        },
+        {
+          "id": 1784816861367,
+          "gst": 0,
+          "qty": 200,
+          "name": "files rapers",
+          "notes": "",
+          "price": 5,
+          "category": "Custom",
+          "isCustom": true
+        },
+        {
+          "id": 48,
+          "gst": 0,
+          "qty": 50,
+          "name": "Urgent ordinary pad",
+          "price": 30,
+          "category": "Stationery"
+        },
+        {
+          "id": 171,
+          "gst": 0,
+          "qty": 20,
+          "name": "register",
+          "price": 200,
+          "category": "Stationery"
+        }
+      ],
+      "total": 15000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 36,
+      "billNumber": 36,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:37:52.593+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784817197100,
+          "qty": 2,
+          "name": "FEVICOL",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817257211,
+          "qty": 1,
+          "name": "A4 colours paper bundle",
+          "price": 150,
+          "category": "Custom"
+        },
+        {
+          "id": 161,
+          "gst": 0,
+          "qty": 10,
+          "name": "chart",
+          "price": 30,
+          "category": "Stationery"
+        },
+        {
+          "id": 1784817309443,
+          "qty": 4,
+          "name": "2 side tape",
+          "price": 25,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817394394,
+          "qty": 4,
+          "name": "balloons",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817416914,
+          "qty": 1,
+          "name": "cello tapes",
+          "price": 120,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817434378,
+          "qty": 1,
+          "name": "markers",
+          "price": 90,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817464481,
+          "qty": 1,
+          "name": "dust less chalkpieces",
+          "price": 50,
+          "category": "Custom"
+        }
+      ],
+      "total": 1410,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 37,
+      "billNumber": 37,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:39:52.161+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784817513521,
+          "qty": 1,
+          "name": "cello tapes",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817522666,
+          "qty": 1,
+          "name": "bag",
+          "price": 40,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817532865,
+          "qty": 1,
+          "name": "sketches",
+          "price": 30,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817563089,
+          "qty": 1,
+          "name": "balloons",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1784817587889,
+          "qty": 2,
+          "name": "fevicol",
+          "price": 100,
+          "category": "Custom"
+        }
+      ],
+      "total": 420,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 38,
+      "billNumber": 38,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T14:44:21.71+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784817843599,
+          "qty": 1,
+          "name": "10 class materal,etc",
+          "price": 1500,
+          "category": "Custom"
+        }
+      ],
+      "total": 1500,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 39,
+      "billNumber": 39,
+      "billDate": "2026-07-23",
+      "createdAt": "2026-07-23T15:05:46.923+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 5,
+          "gst": 0,
+          "qty": 1,
+          "name": "No4 book binging single rule",
+          "price": 240,
+          "category": "Stationery"
+        },
+        {
+          "id": 12,
+          "gst": 0,
+          "qty": 1,
+          "name": "Fevi stick",
+          "price": 40,
+          "category": "Stationery"
+        }
+      ],
+      "total": 280,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 40,
+      "billNumber": 40,
+      "billDate": "2026-07-24",
+      "createdAt": "2026-07-24T06:55:00.47+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 179,
+          "gst": 0,
+          "qty": 1,
+          "name": "CHAIR",
+          "price": 900,
+          "category": "Stationery"
+        },
+        {
+          "id": 181,
+          "gst": 0,
+          "qty": 1,
+          "name": "CHAIR PAD",
+          "price": 150,
+          "category": "Stationery"
+        },
+        {
+          "id": 163,
+          "gst": 0,
+          "qty": 13,
+          "name": "notes white",
+          "price": 40,
+          "category": "Books"
+        }
+      ],
+      "total": 1570,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 41,
+      "billNumber": 41,
+      "billDate": "2026-07-24",
+      "createdAt": "2026-07-24T06:57:15.364+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 10,
+          "gst": 0,
+          "qty": 8,
+          "name": "Box files",
+          "price": 120,
+          "category": "Stationery"
+        },
+        {
+          "id": 37,
+          "gst": 0,
+          "qty": 2,
+          "name": "Pp cover 1kg",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 183,
+          "gst": 0,
+          "qty": 1,
+          "name": "PUNCHING MACHAIN",
+          "price": 1700,
+          "category": "Stationery"
+        }
+      ],
+      "total": 3260,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 42,
+      "billNumber": 42,
+      "billDate": "2026-07-24",
+      "createdAt": "2026-07-24T07:16:47.453+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 185,
+          "gst": 0,
+          "qty": 1,
+          "name": "LINE PINS GEL BOX",
+          "price": 180,
+          "category": "Stationery"
+        },
+        {
+          "id": 17,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pin machine hp45",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 16,
+          "gst": 0,
+          "qty": 3,
+          "name": "Pin 24/6",
+          "price": 25,
+          "category": "Stationery"
+        },
+        {
+          "id": 184,
+          "gst": 0,
+          "qty": 3,
+          "name": "FILE CLIPES",
+          "price": 220,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1215,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 43,
+      "billNumber": 43,
+      "billDate": "2026-07-24",
+      "createdAt": "2026-07-24T10:23:08.161+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 152,
+          "gst": 0,
+          "qty": 1,
+          "name": "8class textbook sem 1",
+          "price": 800,
+          "category": "Books"
+        },
+        {
+          "id": 23,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pen box",
+          "price": 90,
+          "category": "Stationery"
+        },
+        {
+          "id": 33,
+          "gst": 0,
+          "qty": 1,
+          "name": "Brown rapers",
+          "price": 20,
+          "category": "Stationery"
+        },
+        {
+          "id": 32,
+          "gst": 0,
+          "qty": 1,
+          "name": "Chart",
+          "price": 10,
+          "category": "Stationery"
+        }
+      ],
+      "total": 920,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 44,
+      "billNumber": 44,
+      "billDate": "2026-07-24",
+      "createdAt": "2026-07-24T10:23:32.469+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784888607957,
+          "qty": 1,
+          "name": "Balloon",
+          "price": 980,
+          "category": "Custom"
+        }
+      ],
+      "total": 980,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 45,
+      "billNumber": 45,
+      "billDate": "2026-07-24",
+      "createdAt": "2026-07-24T10:35:45.435+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 151,
+          "gst": 0,
+          "qty": 1,
+          "name": "7class textbook sem 2",
+          "price": 600,
+          "category": "Books"
+        },
+        {
+          "id": 150,
+          "gst": 0,
+          "qty": 1,
+          "name": "7class textbook sem 1",
+          "price": 700,
+          "category": "Books"
+        },
+        {
+          "id": 1784889339795,
+          "qty": 1,
+          "name": "Material",
+          "price": 2500,
+          "category": "Custom"
+        }
+      ],
+      "total": 3800,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 46,
+      "billNumber": 46,
+      "billDate": "2026-07-25",
+      "createdAt": "2026-07-25T07:39:14.467+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 162,
+          "gst": 0,
+          "qty": 20,
+          "name": "3/4 notes",
+          "price": 30,
+          "category": "Stationery"
+        }
+      ],
+      "total": 600,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 47,
+      "billNumber": 47,
+      "billDate": "2026-07-25",
+      "createdAt": "2026-07-25T07:39:45.675+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784965195716,
+          "qty": 1,
+          "name": "trvaling  bag",
+          "price": 800,
+          "category": "Custom"
+        }
+      ],
+      "total": 800,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 48,
+      "billNumber": 48,
+      "billDate": "2026-07-25",
+      "createdAt": "2026-07-25T08:02:27.048+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 187,
+          "gst": 0,
+          "qty": 4,
+          "name": "10 class ns",
+          "price": 63,
+          "category": "Stationery"
+        },
+        {
+          "id": 188,
+          "gst": 0,
+          "qty": 4,
+          "name": "10 CLASS PS ACTION PLAN",
+          "price": 81,
+          "category": "Stationery"
+        },
+        {
+          "id": 189,
+          "gst": 0,
+          "qty": 4,
+          "name": "10 CLASS SOCIAL ACTION PLAN",
+          "price": 81,
+          "category": "Stationery"
+        },
+        {
+          "id": 190,
+          "gst": 0,
+          "qty": 4,
+          "name": "10 CLASS ENGLISH ACTION PLAN",
+          "price": 135,
+          "category": "Stationery"
+        },
+        {
+          "id": 191,
+          "gst": 0,
+          "qty": 4,
+          "name": "10 CLASS HINDI ACTION PLAN",
+          "price": 81,
+          "category": "Stationery"
+        },
+        {
+          "id": 192,
+          "gst": 0,
+          "qty": 4,
+          "name": "10 CLASS TELUGU ACTION PLAN",
+          "price": 99,
+          "category": "Stationery"
+        },
+        {
+          "id": 165,
+          "gst": 0,
+          "qty": 4,
+          "name": "10 class hinid  ACTION PLAN",
+          "price": 135,
+          "category": "Books"
+        }
+      ],
+      "total": 1755,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 49,
+      "billNumber": 49,
+      "billDate": "2026-07-25",
+      "createdAt": "2026-07-25T08:41:03.212+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1784968853891,
+          "qty": 10,
+          "name": "white note books",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1784968865892,
+          "qty": 10,
+          "name": "pens",
+          "price": 4,
+          "category": "Custom"
+        }
+      ],
+      "total": 640,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 50,
+      "billNumber": 50,
+      "billDate": "2026-07-25",
+      "createdAt": "2026-07-25T14:00:03.26+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 193,
+          "gst": 0,
+          "qty": 2,
+          "name": "zip files 24 f",
+          "price": 300,
+          "category": "Stationery"
+        }
+      ],
+      "total": 600,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 51,
+      "billNumber": 51,
+      "billDate": "2026-07-25",
+      "createdAt": "2026-07-25T14:35:54.261+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 186,
+          "gst": 0,
+          "qty": 40,
+          "name": "math action plan",
+          "price": 135,
+          "category": "Stationery"
+        },
+        {
+          "id": 1784989710785,
+          "gst": 0,
+          "qty": 90,
+          "name": "ns action plan",
+          "notes": "",
+          "price": 63,
+          "category": "Custom",
+          "isCustom": true
+        },
+        {
+          "id": 1784989949198,
+          "gst": 0,
+          "qty": 90,
+          "name": "ps action plan",
+          "notes": "",
+          "price": 81,
+          "category": "Custom",
+          "isCustom": true
+        },
+        {
+          "id": 1784990005303,
+          "gst": 0,
+          "qty": 90,
+          "name": "social action plan",
+          "notes": "",
+          "price": 81,
+          "category": "Custom",
+          "isCustom": true
+        },
+        {
+          "id": 1784990039526,
+          "gst": 0,
+          "qty": 90,
+          "name": "english action plan",
+          "notes": "",
+          "price": 135,
+          "category": "Custom",
+          "isCustom": true
+        },
+        {
+          "id": 1784990089446,
+          "gst": 0,
+          "qty": 90,
+          "name": "hindi action plan",
+          "notes": "",
+          "price": 81,
+          "category": "Custom",
+          "isCustom": true
+        },
+        {
+          "id": 1784990126678,
+          "gst": 0,
+          "qty": 90,
+          "name": "telugu action plan",
+          "notes": "",
+          "price": 99,
+          "category": "Custom",
+          "isCustom": true
+        }
+      ],
+      "total": 35100,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 52,
+      "billNumber": 52,
+      "billDate": "2026-07-27",
+      "createdAt": "2026-07-27T15:25:44.115+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785165940392,
+          "qty": 1,
+          "name": "INTR TEXT BOOK",
+          "price": 1425,
+          "category": "Custom"
+        }
+      ],
+      "total": 1425,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 53,
+      "billNumber": 53,
+      "billDate": "2026-07-27",
+      "createdAt": "2026-07-27T15:31:56.695+00:00",
+      "customer": "KRISHNAVANI JR COLLAGE",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 195,
+          "gst": 0,
+          "qty": 18,
+          "name": "KORES DUSTLESS CHALK",
+          "price": 75,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1350,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 54,
+      "billNumber": 54,
+      "billDate": "2026-07-27",
+      "createdAt": "2026-07-27T15:36:14.403+00:00",
+      "customer": "KRISHNAVANI JR COLLAGE",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 195,
+          "gst": 0,
+          "qty": 18,
+          "name": "KORES DUSTLESS CHALK",
+          "price": 67,
+          "category": "Stationery"
+        },
+        {
+          "id": 1785166553355,
+          "qty": 100,
+          "name": "FILE COVER",
+          "price": 5,
+          "category": "Custom"
+        }
+      ],
+      "total": 1706,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 55,
+      "billNumber": 55,
+      "billDate": "2026-07-29",
+      "createdAt": "2026-07-29T14:30:06.788+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 37,
+          "gst": 0,
+          "qty": 3,
+          "name": "Pp cover 1kg",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 17,
+          "gst": 0,
+          "qty": 2,
+          "name": "Pin machine hp45",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 9,
+          "gst": 0,
+          "qty": 1,
+          "name": "Cloth binging book no1",
+          "price": 160,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1660,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 56,
+      "billNumber": 56,
+      "billDate": "2026-07-29",
+      "createdAt": "2026-07-29T14:32:08.91+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785335433801,
+          "qty": 1,
+          "name": "7 class mat",
+          "price": 600,
+          "category": "Custom"
+        },
+        {
+          "id": 1785335459473,
+          "qty": 1,
+          "name": "green paper",
+          "price": 410,
+          "category": "Custom"
+        },
+        {
+          "id": 1785335529720,
+          "qty": 1,
+          "name": "1,2 mat",
+          "price": 405,
+          "category": "Custom"
+        }
+      ],
+      "total": 1415,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 57,
+      "billNumber": 57,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T07:57:01.795+00:00",
+      "customer": "sisumandir school",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 150,
+          "gst": 0,
+          "qty": 30,
+          "name": "7class textbook sem 1",
+          "price": 650,
+          "category": "Books"
+        },
+        {
+          "id": 152,
+          "gst": 0,
+          "qty": 34,
+          "name": "8class textbook sem 1",
+          "price": 680,
+          "category": "Books"
+        }
+      ],
+      "total": 42620,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 58,
+      "billNumber": 58,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T07:59:44.598+00:00",
+      "customer": "sisumandir school",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 82,
+          "gst": 0,
+          "qty": 31,
+          "name": "6 class text book",
+          "price": 1000,
+          "category": "Books"
+        }
+      ],
+      "total": 31000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 59,
+      "billNumber": 59,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:01:49.526+00:00",
+      "customer": "sisumandir school",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 151,
+          "gst": 0,
+          "qty": 32,
+          "name": "7class textbook sem 2",
+          "price": 640,
+          "category": "Books"
+        }
+      ],
+      "total": 20480,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 60,
+      "billNumber": 60,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:04:56.716+00:00",
+      "customer": "Boi",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785398682344,
+          "qty": 1,
+          "name": "kojjk",
+          "price": 100,
+          "category": "Custom"
+        }
+      ],
+      "total": 100,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 61,
+      "billNumber": 61,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:05:24.213+00:00",
+      "customer": "Bank",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 2,
+          "gst": 0,
+          "qty": 2,
+          "name": "Eraser 1pic",
+          "price": 5,
+          "category": "Stationery"
+        }
+      ],
+      "total": 10,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 62,
+      "billNumber": 62,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:07:49.588+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785398804062,
+          "qty": 1,
+          "name": "colin",
+          "price": 120,
+          "category": "Custom"
+        }
+      ],
+      "total": 120,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 63,
+      "billNumber": 63,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:11:58.863+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785399001533,
+          "qty": 1,
+          "name": "COLIN",
+          "price": 120,
+          "category": "Custom"
+        },
+        {
+          "id": 1785399025692,
+          "qty": 2,
+          "name": "FILES",
+          "price": 40,
+          "category": "Custom"
+        },
+        {
+          "id": 1785399050844,
+          "qty": 4,
+          "name": "BOXFILE",
+          "price": 120,
+          "category": "Custom"
+        },
+        {
+          "id": 1785399089820,
+          "qty": 2,
+          "name": "KUNCHI CHEPURULU",
+          "price": 80,
+          "category": "Custom"
+        }
+      ],
+      "total": 840,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 64,
+      "billNumber": 64,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:45:54.737+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785399585951,
+          "qty": 5,
+          "name": "FEVI",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401013436,
+          "qty": 2,
+          "name": "RABAR BANDS",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401036595,
+          "qty": 2,
+          "name": "DOMES",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401062147,
+          "qty": 1,
+          "name": "WATER BOTTELE",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401087395,
+          "qty": 1,
+          "name": "A4 PAPER",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401102483,
+          "qty": 2,
+          "name": "PENS",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401148108,
+          "qty": 1,
+          "name": "CELLO TAPE",
+          "price": 180,
+          "category": "Custom"
+        }
+      ],
+      "total": 940,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 65,
+      "billNumber": 65,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:49:20.103+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785401276465,
+          "qty": 2,
+          "name": "CLOTH COVERS",
+          "price": 15,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401298745,
+          "qty": 1,
+          "name": "WINDO COVERS",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401329705,
+          "qty": 1,
+          "name": "PVC COVERS",
+          "price": 300,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401352473,
+          "qty": 1,
+          "name": "EXO SOAP",
+          "price": 50,
+          "category": "Custom"
+        }
+      ],
+      "total": 460,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 66,
+      "billNumber": 66,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T08:55:56.746+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785401635022,
+          "qty": 10,
+          "name": "A4 CLOTH COVERS",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401649774,
+          "qty": 1,
+          "name": "COLIN",
+          "price": 115,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401678806,
+          "qty": 25,
+          "name": "COVERS",
+          "price": 5,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401714997,
+          "qty": 4,
+          "name": "BOX FILES",
+          "price": 120,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401745934,
+          "qty": 2,
+          "name": "RABBAR BANDS",
+          "price": 80,
+          "category": "Custom"
+        }
+      ],
+      "total": 980,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 67,
+      "billNumber": 67,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T09:00:16.85+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785401859468,
+          "qty": 2,
+          "name": "FEVI STICK",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401879109,
+          "qty": 1,
+          "name": "PENCIL BOX",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401905588,
+          "qty": 1,
+          "name": "REGISTER BOOK",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401942428,
+          "qty": 2,
+          "name": "PLASTIC TRES",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401970388,
+          "qty": 3,
+          "name": "ROOM FRESHERS",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785401992156,
+          "qty": 1,
+          "name": "CORBAN BOX",
+          "price": 250,
+          "category": "Custom"
+        }
+      ],
+      "total": 760,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 68,
+      "billNumber": 68,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T09:02:24.391+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785402088115,
+          "qty": 2,
+          "name": "MARKER",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402113970,
+          "qty": 1,
+          "name": "A4 PAPER",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402135066,
+          "qty": 1,
+          "name": "RABBAR BANDS",
+          "price": 150,
+          "category": "Custom"
+        }
+      ],
+      "total": 420,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 69,
+      "billNumber": 69,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T09:06:06.997+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785402320520,
+          "qty": 1,
+          "name": "PLASTI WIRE",
+          "price": 325,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402346368,
+          "qty": 2,
+          "name": "PVC COVERS",
+          "price": 300,
+          "category": "Custom"
+        }
+      ],
+      "total": 925,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 70,
+      "billNumber": 70,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T09:09:39.944+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785402453655,
+          "qty": 4,
+          "name": "BOX FILES",
+          "price": 120,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402496687,
+          "qty": 4,
+          "name": "FEVISTICK",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402515847,
+          "qty": 1,
+          "name": "REGISTER",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402551191,
+          "qty": 4,
+          "name": "CLOTH COVERS",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402571695,
+          "qty": 1,
+          "name": "HAND WASH",
+          "price": 198,
+          "category": "Custom"
+        }
+      ],
+      "total": 998,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 71,
+      "billNumber": 71,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T09:12:51.202+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785402641246,
+          "qty": 1,
+          "name": "CLOTH REGISTER",
+          "price": 480,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402665845,
+          "qty": 1,
+          "name": "IRON SCHLE",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402686406,
+          "qty": 1,
+          "name": "NOTE BOOK",
+          "price": 25,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402707749,
+          "qty": 2,
+          "name": "PENS BOXS",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785402742165,
+          "qty": 1,
+          "name": "COLIN",
+          "price": 180,
+          "category": "Custom"
+        }
+      ],
+      "total": 905,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 72,
+      "billNumber": 72,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T09:21:34.632+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785403050106,
+          "qty": 1,
+          "name": "PENS BOX",
+          "price": 90,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403156393,
+          "qty": 1,
+          "name": "PVC COVERS",
+          "price": 300,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403177785,
+          "qty": 1,
+          "name": "CLIPES BOX",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403200225,
+          "qty": 1,
+          "name": "CLIPES BOX",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403220449,
+          "qty": 1,
+          "name": "CLIPES BOX",
+          "price": 160,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403250465,
+          "qty": 5,
+          "name": "CLOTH COVER",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403280409,
+          "qty": 15,
+          "name": "CLOTH COVERS",
+          "price": 15,
+          "category": "Custom"
+        }
+      ],
+      "total": 985,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 73,
+      "billNumber": 73,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T09:29:32.352+00:00",
+      "customer": "BANK OF INDIA SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785403602758,
+          "qty": 1,
+          "name": "PENS BOX",
+          "price": 90,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403628350,
+          "qty": 1,
+          "name": "PVC COVERS",
+          "price": 300,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403653341,
+          "qty": 1,
+          "name": "CLIPES BOX",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403669365,
+          "qty": 1,
+          "name": "CLIPES BOX",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403683518,
+          "qty": 1,
+          "name": "CLIPES BOX",
+          "price": 160,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403715629,
+          "qty": 10,
+          "name": "CLOTH COVER",
+          "price": 5,
+          "category": "Custom"
+        },
+        {
+          "id": 1785403744645,
+          "qty": 10,
+          "name": "CLOTH COVER",
+          "price": 15,
+          "category": "Custom"
+        }
+      ],
+      "total": 910,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 74,
+      "billNumber": 74,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T11:15:37.895+00:00",
+      "customer": "LIC SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785409163903,
+          "qty": 9,
+          "name": "PINS",
+          "price": 25,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409196630,
+          "qty": 2,
+          "name": "GUM BOTTLE",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409222006,
+          "qty": 1,
+          "name": "MAKERS BOX",
+          "price": 180,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409241847,
+          "qty": 1,
+          "name": "STAPLER",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409257606,
+          "qty": 1,
+          "name": "GUM TAPE",
+          "price": 180,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409287030,
+          "qty": 1,
+          "name": "FEVI STICK",
+          "price": 40,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409324509,
+          "qty": 1,
+          "name": "RUBBER BANDS",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409352781,
+          "qty": 3,
+          "name": "PENCILS",
+          "price": 5,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409385340,
+          "qty": 3,
+          "name": "BOX FILES",
+          "price": 120,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409402534,
+          "qty": 5,
+          "name": "NO 1 REGISTER",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409750921,
+          "qty": 1,
+          "name": "REGISTER",
+          "price": 200,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409979384,
+          "qty": 1,
+          "name": "CLOTH REGISTER",
+          "price": 480,
+          "category": "Custom"
+        },
+        {
+          "id": 1785409988393,
+          "qty": 1,
+          "name": "NOTES",
+          "price": 55,
+          "category": "Custom"
+        },
+        {
+          "id": 1785410007744,
+          "qty": 1,
+          "name": "STAMP PAD",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785410103471,
+          "qty": 1,
+          "name": "BATTERY",
+          "price": 10,
+          "category": "Custom"
+        }
+      ],
+      "total": 2535,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 75,
+      "billNumber": 75,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T11:34:48.553+00:00",
+      "customer": "LIC SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785410908257,
+          "qty": 1,
+          "name": "CLOTH REGISTER",
+          "price": 480,
+          "category": "Custom"
+        },
+        {
+          "id": 1785410940161,
+          "qty": 1,
+          "name": "A4 PAPER",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785410961416,
+          "qty": 10,
+          "name": "PENS",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411015951,
+          "qty": 2,
+          "name": "PLASTIC WIRE",
+          "price": 350,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411048287,
+          "qty": 10,
+          "name": "BATTERY",
+          "price": 15,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411063246,
+          "qty": 4,
+          "name": "PENS",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411091598,
+          "qty": 40,
+          "name": "PAPERS",
+          "price": 2,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411109150,
+          "qty": 10,
+          "name": "PENS",
+          "price": 9,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411128710,
+          "qty": 3,
+          "name": "FILES",
+          "price": 40,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411147558,
+          "qty": 1,
+          "name": "REGISTER",
+          "price": 180,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411171166,
+          "qty": 2,
+          "name": "FILES",
+          "price": 40,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411219477,
+          "qty": 4,
+          "name": "RUBBER BANDS",
+          "price": 70,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411233510,
+          "qty": 1,
+          "name": "RUBER BANDS",
+          "price": 300,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411272814,
+          "qty": 1,
+          "name": "A4 PAPER",
+          "price": 250,
+          "category": "Custom"
+        }
+      ],
+      "total": 3100,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 76,
+      "billNumber": 76,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T12:00:24.909+00:00",
+      "customer": "LIC SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785411735554,
+          "qty": 3,
+          "name": "MAKERS",
+          "price": 180,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411763697,
+          "qty": 1,
+          "name": "MAKERS",
+          "price": 90,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411790984,
+          "qty": 2,
+          "name": "PINS",
+          "price": 160,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411813912,
+          "qty": 6,
+          "name": "PINS",
+          "price": 25,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411863640,
+          "qty": 2,
+          "name": "PENS",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411874137,
+          "qty": 1,
+          "name": "PENS",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411893903,
+          "qty": 1,
+          "name": "FEVI STICK",
+          "price": 25,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411908377,
+          "qty": 1,
+          "name": "A4 PAPER",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411930976,
+          "qty": 1,
+          "name": "STAPLER MACHINE",
+          "price": 110,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411941528,
+          "qty": 1,
+          "name": "PENCIL BOX",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411950168,
+          "qty": 1,
+          "name": "HIT",
+          "price": 210,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411961983,
+          "qty": 3,
+          "name": "PENS",
+          "price": 5,
+          "category": "Custom"
+        },
+        {
+          "id": 1785411983712,
+          "qty": 1,
+          "name": "RUBBER BAND",
+          "price": 180,
+          "category": "Custom"
+        },
+        {
+          "id": 1785412016807,
+          "qty": 1,
+          "name": "CLOTH REGISTER",
+          "price": 480,
+          "category": "Custom"
+        },
+        {
+          "id": 1785412051007,
+          "qty": 1,
+          "name": "A4 PAPER",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785412076327,
+          "qty": 1,
+          "name": "MAKERS",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1785412090087,
+          "qty": 1,
+          "name": "RUBBER BAND",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785412105142,
+          "qty": 1,
+          "name": "PINS NO.10",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1785412788393,
+          "qty": 2,
+          "name": "REGISTERS",
+          "price": 120,
+          "category": "Custom"
+        }
+      ],
+      "total": 3510,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 77,
+      "billNumber": 77,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T12:06:33.523+00:00",
+      "customer": "LIC SATTENAPALLI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785412967999,
+          "qty": 1,
+          "name": "PEN",
+          "price": 15,
+          "category": "Custom"
+        },
+        {
+          "id": 1785412988279,
+          "qty": 3,
+          "name": "REGISTER",
+          "price": 140,
+          "category": "Custom"
+        },
+        {
+          "id": 1785413006239,
+          "qty": 5,
+          "name": "PENS",
+          "price": 20,
+          "category": "Custom"
+        },
+        {
+          "id": 1785413021519,
+          "qty": 3,
+          "name": "REGISTER",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785413095951,
+          "qty": 1,
+          "name": "CLOTH REGISTER",
+          "price": 320,
+          "category": "Custom"
+        },
+        {
+          "id": 1785413126014,
+          "qty": 1,
+          "name": "RUBBER BANDS",
+          "price": 150,
+          "category": "Custom"
+        },
+        {
+          "id": 1785413140246,
+          "qty": 2,
+          "name": "PENS BOX",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785413182469,
+          "qty": 2,
+          "name": "WHITENER PEN",
+          "price": 30,
+          "category": "Custom"
+        }
+      ],
+      "total": 1405,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 78,
+      "billNumber": 78,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T13:09:31.704+00:00",
+      "customer": "NALANDA KANTEPUDI",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785416863818,
+          "qty": 50,
+          "name": "PVC FOLDERS",
+          "price": 7,
+          "category": "Custom"
+        }
+      ],
+      "total": 350,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 79,
+      "billNumber": 79,
+      "billDate": "2026-07-30",
+      "createdAt": "2026-07-30T13:17:52.876+00:00",
+      "customer": "SISUMANDHIR SCHOOL ",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785417360486,
+          "qty": 32,
+          "name": "8TH SEM 2 BOOKS",
+          "price": 550,
+          "category": "Custom"
+        }
+      ],
+      "total": 17600,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 80,
+      "billNumber": 80,
+      "billDate": "2026-07-31",
+      "createdAt": "2026-07-31T08:18:06.266+00:00",
+      "customer": "Andhra Bank",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785485699642,
+          "qty": 10,
+          "name": "FEVI STICS",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785485727745,
+          "qty": 1,
+          "name": "PENS BOX",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785485797777,
+          "qty": 1,
+          "name": "STAMP PADS",
+          "price": 60,
+          "category": "Custom"
+        }
+      ],
+      "total": 640,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 81,
+      "billNumber": 81,
+      "billDate": "2026-07-31",
+      "createdAt": "2026-07-31T09:51:22.45+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785490871331,
+          "qty": 2,
+          "name": "whitener",
+          "price": 30,
+          "category": "Custom"
+        },
+        {
+          "id": 1785490940522,
+          "qty": 2,
+          "name": "notes",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1785490998210,
+          "qty": 2,
+          "name": "locks",
+          "price": 120,
+          "category": "Custom"
+        },
+        {
+          "id": 1785491017729,
+          "qty": 2,
+          "name": "pens",
+          "price": 25,
+          "category": "Custom"
+        },
+        {
+          "id": 1785491372966,
+          "qty": 1,
+          "name": "A4",
+          "price": 250,
+          "category": "Custom"
+        },
+        {
+          "id": 1785491387463,
+          "qty": 1,
+          "name": "CELLO TAPE",
+          "price": 30,
+          "category": "Custom"
+        },
+        {
+          "id": 1785491420614,
+          "qty": 3,
+          "name": "THERDS",
+          "price": 3,
+          "category": "Custom"
+        }
+      ],
+      "total": 739,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 82,
+      "billNumber": 82,
+      "billDate": "2026-07-31",
+      "createdAt": "2026-07-31T09:58:38.441+00:00",
+      "customer": "Andhra Bank",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785491551525,
+          "qty": 30,
+          "name": "FEVISTICKS",
+          "price": 23,
+          "category": "Custom"
+        },
+        {
+          "id": 1785491608988,
+          "qty": 1,
+          "name": "PENS BOX",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1785491635724,
+          "qty": 1,
+          "name": "STAMPADS",
+          "price": 60,
+          "category": "Custom"
+        },
+        {
+          "id": 1785491755859,
+          "qty": 4,
+          "name": "PVC COVERS",
+          "price": 300,
+          "category": "Custom"
+        }
+      ],
+      "total": 2030,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 83,
+      "billNumber": 83,
+      "billDate": "2026-07-31",
+      "createdAt": "2026-07-31T10:02:44.446+00:00",
+      "customer": "Andhra Bank",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785492080576,
+          "qty": 1,
+          "name": "STAPLER HP 10",
+          "price": 220,
+          "category": "Custom"
+        },
+        {
+          "id": 1785492149954,
+          "qty": 1,
+          "name": "STAPLER PINS",
+          "price": 160,
+          "category": "Custom"
+        }
+      ],
+      "total": 380,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 84,
+      "billNumber": 84,
+      "billDate": "2026-08-03",
+      "createdAt": "2026-08-03T16:40:00.865+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785775201538,
+          "qty": 1,
+          "name": "satation",
+          "price": 7400,
+          "category": "Custom"
+        }
+      ],
+      "total": 7400,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 85,
+      "billNumber": 85,
+      "billDate": "2026-08-03",
+      "createdAt": "2026-08-03T16:56:59.869+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1,
+          "gst": 0,
+          "qty": 1,
+          "name": "Dettol hand wash",
+          "price": 100,
+          "category": "Stationery"
+        },
+        {
+          "id": 5,
+          "gst": 0,
+          "qty": 1,
+          "name": "No4 book binging single rule",
+          "price": 240,
+          "category": "Stationery"
+        },
+        {
+          "id": 9,
+          "gst": 0,
+          "qty": 1,
+          "name": "Cloth binging book no1",
+          "price": 160,
+          "category": "Stationery"
+        },
+        {
+          "id": 8,
+          "gst": 0,
+          "qty": 1,
+          "name": "Legal papers",
+          "price": 350,
+          "category": "Stationery"
+        },
+        {
+          "id": 15,
+          "gst": 0,
+          "qty": 1,
+          "name": "No 10 pin",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 18,
+          "gst": 0,
+          "qty": 1,
+          "name": "Punching machine",
+          "price": 250,
+          "category": "Stationery"
+        },
+        {
+          "id": 19,
+          "gst": 0,
+          "qty": 1,
+          "name": "Colour paper",
+          "price": 150,
+          "category": "Stationery"
+        },
+        {
+          "id": 16,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pin 24/6",
+          "price": 25,
+          "category": "Stationery"
+        },
+        {
+          "id": 24,
+          "gst": 0,
+          "qty": 9,
+          "name": "Pen box",
+          "price": 80,
+          "category": "Stationery"
+        },
+        {
+          "id": 27,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pads",
+          "price": 35,
+          "category": "Stationery"
+        },
+        {
+          "id": 30,
+          "gst": 0,
+          "qty": 1,
+          "name": "Double sided tape",
+          "price": 50,
+          "category": "Stationery"
+        },
+        {
+          "id": 29,
+          "gst": 0,
+          "qty": 1,
+          "name": "Transparent plastic",
+          "price": 50,
+          "category": "Stationery"
+        },
+        {
+          "id": 33,
+          "gst": 0,
+          "qty": 1,
+          "name": "Brown rapers",
+          "price": 20,
+          "category": "Stationery"
+        },
+        {
+          "id": 32,
+          "gst": 0,
+          "qty": 1,
+          "name": "Chart",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 36,
+          "gst": 0,
+          "qty": 1,
+          "name": "A4 paper",
+          "price": 250,
+          "category": "Stationery"
+        },
+        {
+          "id": 37,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pp cover 1kg",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 48,
+          "gst": 0,
+          "qty": 3,
+          "name": "Urgent ordinary pad",
+          "price": 30,
+          "category": "Stationery"
+        },
+        {
+          "id": 47,
+          "gst": 0,
+          "qty": 1,
+          "name": "Cloth binging book no5",
+          "price": 480,
+          "category": "Stationery"
+        },
+        {
+          "id": 49,
+          "gst": 0,
+          "qty": 3,
+          "name": "Four folder",
+          "price": 80,
+          "category": "Stationery"
+        },
+        {
+          "id": 57,
+          "gst": 0,
+          "qty": 1,
+          "name": "Gum bottle",
+          "price": 30,
+          "category": "Stationery"
+        },
+        {
+          "id": 54,
+          "gst": 0,
+          "qty": 4,
+          "name": "Executive bag",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 56,
+          "gst": 0,
+          "qty": 1,
+          "name": "Sticker files",
+          "price": 25,
+          "category": "Stationery"
+        },
+        {
+          "id": 53,
+          "gst": 0,
+          "qty": 1,
+          "name": "Marker green big",
+          "price": 20,
+          "category": "Stationery"
+        },
+        {
+          "id": 66,
+          "gst": 0,
+          "qty": 2,
+          "name": "Stamp pad",
+          "price": 35,
+          "category": "Stationery"
+        },
+        {
+          "id": 74,
+          "gst": 0,
+          "qty": 2,
+          "name": "Marker small red",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 75,
+          "gst": 0,
+          "qty": 2,
+          "name": "Marker small green",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 81,
+          "gst": 18,
+          "qty": 3,
+          "name": "Travel bag plastic big",
+          "price": 2500,
+          "category": "Stationery"
+        },
+        {
+          "id": 82,
+          "gst": 0,
+          "qty": 3,
+          "name": "6 class text book",
+          "price": 1000,
+          "category": "Books"
+        },
+        {
+          "id": 80,
+          "gst": 0,
+          "qty": 2,
+          "name": "Pvc  cover  12p",
+          "price": 300,
+          "category": "Stationery"
+        },
+        {
+          "id": 90,
+          "gst": 0,
+          "qty": 2,
+          "name": "Cleaning stick",
+          "price": 150,
+          "category": "Stationery"
+        },
+        {
+          "id": 91,
+          "gst": 0,
+          "qty": 2,
+          "name": "Cleaning wrappers",
+          "price": 150,
+          "category": "Stationery"
+        },
+        {
+          "id": 88,
+          "gst": 0,
+          "qty": 2,
+          "name": "Clips",
+          "price": 50,
+          "category": "Stationery"
+        },
+        {
+          "id": 93,
+          "gst": 0,
+          "qty": 1,
+          "name": "Dust bin",
+          "price": 80,
+          "category": "Stationery"
+        },
+        {
+          "id": 94,
+          "gst": 0,
+          "qty": 1,
+          "name": "Bucket big",
+          "price": 180,
+          "category": "Stationery"
+        },
+        {
+          "id": 96,
+          "gst": 0,
+          "qty": 1,
+          "name": "Mug",
+          "price": 25,
+          "category": "Stationery"
+        }
+      ],
+      "total": 17000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 86,
+      "billNumber": 86,
+      "billDate": "2026-08-05",
+      "createdAt": "2026-08-05T09:23:26.188+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1785921764882,
+          "qty": 1,
+          "name": "bed ,pillow and etc",
+          "price": 9500,
+          "category": "Custom"
+        },
+        {
+          "id": 1785921807945,
+          "qty": 6,
+          "name": "files covers",
+          "price": 300,
+          "category": "Custom"
+        }
+      ],
+      "total": 11300,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 87,
+      "billNumber": 87,
+      "billDate": "2026-08-05",
+      "createdAt": "2026-08-05T15:48:21.717+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 165,
+          "gst": 0,
+          "qty": 3,
+          "name": "10 class hinid  ACTION PLAN",
+          "price": 135,
+          "category": "Books"
+        },
+        {
+          "id": 186,
+          "gst": 0,
+          "qty": 3,
+          "name": "math action plan",
+          "price": 135,
+          "category": "Stationery"
+        },
+        {
+          "id": 188,
+          "gst": 0,
+          "qty": 3,
+          "name": "10 CLASS PS ACTION PLAN",
+          "price": 81,
+          "category": "Stationery"
+        },
+        {
+          "id": 189,
+          "gst": 0,
+          "qty": 3,
+          "name": "10 CLASS SOCIAL ACTION PLAN",
+          "price": 81,
+          "category": "Stationery"
+        },
+        {
+          "id": 190,
+          "gst": 0,
+          "qty": 3,
+          "name": "10 CLASS ENGLISH ACTION PLAN",
+          "price": 135,
+          "category": "Stationery"
+        },
+        {
+          "id": 191,
+          "gst": 0,
+          "qty": 3,
+          "name": "10 CLASS HINDI ACTION PLAN",
+          "price": 81,
+          "category": "Stationery"
+        },
+        {
+          "id": 192,
+          "gst": 0,
+          "qty": 3,
+          "name": "10 CLASS TELUGU ACTION PLAN",
+          "price": 99,
+          "category": "Stationery"
+        }
+      ],
+      "total": 1457,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 88,
+      "billNumber": 88,
+      "billDate": "2026-08-06",
+      "createdAt": "2026-08-06T14:19:00.4+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786025923943,
+          "qty": 360,
+          "name": "white notes",
+          "price": 16,
+          "category": "Custom"
+        }
+      ],
+      "total": 5760,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 89,
+      "billNumber": 89,
+      "billDate": "2026-08-08",
+      "createdAt": "2026-08-08T06:42:47.901+00:00",
+      "customer": "sisumandhir nadhigama",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786171248117,
+          "qty": 40,
+          "name": "jem distionary",
+          "price": 100,
+          "category": "Custom"
+        },
+        {
+          "id": 1786171320148,
+          "qty": 25,
+          "name": "gem distionary",
+          "price": 50,
+          "category": "Custom"
+        }
+      ],
+      "total": 5250,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 90,
+      "billNumber": 90,
+      "billDate": "2026-08-08",
+      "createdAt": "2026-08-08T06:46:19.031+00:00",
+      "customer": "Sisumandir school",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786171504922,
+          "qty": 100,
+          "name": "JEM DICTIONARY",
+          "price": 40,
+          "category": "Custom"
+        },
+        {
+          "id": 1786171525586,
+          "qty": 25,
+          "name": "JEM DICTIONARY",
+          "price": 50,
+          "category": "Custom"
+        }
+      ],
+      "total": 5250,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 91,
+      "billNumber": 91,
+      "billDate": "2026-08-10",
+      "createdAt": "2026-08-10T16:09:26.843+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786378133803,
+          "qty": 1,
+          "name": "pens and etc",
+          "price": 4000,
+          "category": "Custom"
+        },
+        {
+          "id": 1786378170155,
+          "qty": 1,
+          "name": "123 maters",
+          "price": 1600,
+          "category": "Custom"
+        }
+      ],
+      "total": 5600,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 92,
+      "billNumber": 92,
+      "billDate": "2026-08-11",
+      "createdAt": "2026-08-11T07:50:47.23+00:00",
+      "customer": "Andhra Bank",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786434608673,
+          "qty": 1,
+          "name": "STAPLER MISSION",
+          "price": 300,
+          "category": "Custom"
+        },
+        {
+          "id": 1786434635710,
+          "qty": 1,
+          "name": "STAPLER PINS",
+          "price": 160,
+          "category": "Custom"
+        }
+      ],
+      "total": 460,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 93,
+      "billNumber": 93,
+      "billDate": "2026-08-11",
+      "createdAt": "2026-08-11T07:54:55.325+00:00",
+      "customer": "Andhra Bank",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786434890933,
+          "qty": 10,
+          "name": "A4 PAPER",
+          "price": 250,
+          "category": "Custom"
+        }
+      ],
+      "total": 2500,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 94,
+      "billNumber": 94,
+      "billDate": "2026-08-13",
+      "createdAt": "2026-08-13T06:30:37.741+00:00",
+      "customer": "Andhra Bank",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786602609113,
+          "qty": 2,
+          "name": "pressing covers",
+          "price": 35,
+          "category": "Custom"
+        },
+        {
+          "id": 1786602631481,
+          "qty": 2,
+          "name": "pressing covers",
+          "price": 45,
+          "category": "Custom"
+        }
+      ],
+      "total": 160,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 95,
+      "billNumber": 95,
+      "billDate": "2026-08-13",
+      "createdAt": "2026-08-13T06:38:51.901+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786602839959,
+          "qty": 1,
+          "name": "STAPLER MISSION",
+          "price": 330,
+          "category": "Custom"
+        },
+        {
+          "id": 1786602869758,
+          "qty": 3,
+          "name": "24/6 PINS",
+          "price": 25,
+          "category": "Custom"
+        },
+        {
+          "id": 1786602895446,
+          "qty": 2,
+          "name": "STPLER MISSION",
+          "price": 70,
+          "category": "Custom"
+        },
+        {
+          "id": 1786602951173,
+          "qty": 5,
+          "name": "NO PINS",
+          "price": 10,
+          "category": "Custom"
+        },
+        {
+          "id": 1786602974557,
+          "qty": 5,
+          "name": "FEVISTICK",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1786603000893,
+          "qty": 2,
+          "name": "PENS BOXS",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1786603029645,
+          "qty": 3,
+          "name": "STAMP PAD INK",
+          "price": 80,
+          "category": "Custom"
+        },
+        {
+          "id": 1786603059428,
+          "qty": 10,
+          "name": "SKECH PENS",
+          "price": 5,
+          "category": "Custom"
+        },
+        {
+          "id": 1786603086349,
+          "qty": 1,
+          "name": "PENCIL BOX",
+          "price": 50,
+          "category": "Custom"
+        },
+        {
+          "id": 1786603107868,
+          "qty": 5,
+          "name": "PVC COVERS",
+          "price": 300,
+          "category": "Custom"
+        },
+        {
+          "id": 1786603138371,
+          "qty": 1,
+          "name": "DETOL HANDWASH",
+          "price": 99,
+          "category": "Custom"
+        }
+      ],
+      "total": 2944,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 96,
+      "billNumber": 96,
+      "billDate": "2026-08-15",
+      "createdAt": "2026-08-15T16:49:01.847+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786812538029,
+          "qty": 1,
+          "name": "white boad",
+          "price": 3000,
+          "category": "Custom"
+        }
+      ],
+      "total": 3000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 97,
+      "billNumber": 97,
+      "billDate": "2026-08-15",
+      "createdAt": "2026-08-15T16:49:56.983+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1786812558621,
+          "qty": 1,
+          "name": "pens",
+          "price": 370,
+          "category": "Custom"
+        },
+        {
+          "id": 1786812569461,
+          "qty": 1,
+          "name": "books",
+          "price": 445,
+          "category": "Custom"
+        },
+        {
+          "id": 5,
+          "gst": 0,
+          "qty": 1,
+          "name": "No4 book binging single rule",
+          "price": 240,
+          "category": "Stationery"
+        },
+        {
+          "id": 6,
+          "gst": 0,
+          "qty": 1,
+          "name": "No1 book binging single rule",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 10,
+          "gst": 0,
+          "qty": 1,
+          "name": "Box files",
+          "price": 120,
+          "category": "Stationery"
+        },
+        {
+          "id": 8,
+          "gst": 0,
+          "qty": 3,
+          "name": "Legal papers",
+          "price": 350,
+          "category": "Stationery"
+        },
+        {
+          "id": 12,
+          "gst": 0,
+          "qty": 1,
+          "name": "Fevi stick",
+          "price": 40,
+          "category": "Stationery"
+        },
+        {
+          "id": 16,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pin 24/6",
+          "price": 25,
+          "category": "Stationery"
+        },
+        {
+          "id": 13,
+          "gst": 0,
+          "qty": 1,
+          "name": "Fevi stick",
+          "price": 50,
+          "category": "Stationery"
+        },
+        {
+          "id": 18,
+          "gst": 0,
+          "qty": 1,
+          "name": "Punching machine",
+          "price": 250,
+          "category": "Stationery"
+        },
+        {
+          "id": 19,
+          "gst": 0,
+          "qty": 1,
+          "name": "Colour paper",
+          "price": 150,
+          "category": "Stationery"
+        },
+        {
+          "id": 22,
+          "gst": 0,
+          "qty": 1,
+          "name": "Iron scale",
+          "price": 60,
+          "category": "Stationery"
+        },
+        {
+          "id": 25,
+          "gst": 0,
+          "qty": 1,
+          "name": "OHP sheet",
+          "price": 400,
+          "category": "Stationery"
+        },
+        {
+          "id": 24,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pen box",
+          "price": 80,
+          "category": "Stationery"
+        },
+        {
+          "id": 23,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pen box",
+          "price": 90,
+          "category": "Stationery"
+        },
+        {
+          "id": 30,
+          "gst": 0,
+          "qty": 1,
+          "name": "Double sided tape",
+          "price": 50,
+          "category": "Stationery"
+        },
+        {
+          "id": 27,
+          "gst": 0,
+          "qty": 1,
+          "name": "Pads",
+          "price": 35,
+          "category": "Stationery"
+        },
+        {
+          "id": 29,
+          "gst": 0,
+          "qty": 1,
+          "name": "Transparent plastic",
+          "price": 50,
+          "category": "Stationery"
+        },
+        {
+          "id": 32,
+          "gst": 0,
+          "qty": 1,
+          "name": "Chart",
+          "price": 10,
+          "category": "Stationery"
+        },
+        {
+          "id": 34,
+          "gst": 0,
+          "qty": 1,
+          "name": "Files rapers",
+          "price": 150,
+          "category": "Stationery"
+        }
+      ],
+      "total": 3725,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 98,
+      "billNumber": 98,
+      "billDate": "2026-08-19",
+      "createdAt": "2026-08-19T17:25:18.636+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1787160301461,
+          "qty": 1,
+          "name": "Sales",
+          "price": 14000,
+          "category": "Custom"
+        },
+        {
+          "id": 1787160310148,
+          "qty": 1,
+          "name": "Cash",
+          "price": 9000,
+          "category": "Custom"
+        }
+      ],
+      "total": 23000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 99,
+      "billNumber": 99,
+      "billDate": "2026-08-19",
+      "createdAt": "2026-08-19T17:25:24.346+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1787160301461,
+          "qty": 1,
+          "name": "Sales",
+          "price": 14000,
+          "category": "Custom"
+        },
+        {
+          "id": 1787160310148,
+          "qty": 1,
+          "name": "Cash",
+          "price": 9000,
+          "category": "Custom"
+        }
+      ],
+      "total": 23000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 100,
+      "billNumber": 100,
+      "billDate": "2026-08-19",
+      "createdAt": "2026-08-19T17:33:39.501+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 2,
+          "gst": 0,
+          "qty": 1,
+          "name": "Eraser 1pic",
+          "price": 5,
+          "category": "Stationery"
+        },
+        {
+          "id": 3,
+          "gst": 0,
+          "qty": 2,
+          "name": "Sharpnes",
+          "price": 5,
+          "category": "Stationery"
+        }
+      ],
+      "total": 15,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    },
+    {
+      "id": 101,
+      "billNumber": 101,
+      "billDate": "2026-08-20",
+      "createdAt": "2026-08-20T16:41:08.662+00:00",
+      "customer": "Retail Customer",
+      "customerType": "Retail Customer",
+      "items": [
+        {
+          "id": 1787244047017,
+          "qty": 1,
+          "name": "sales",
+          "price": 18000,
+          "category": "Custom"
+        },
+        {
+          "id": 1787244061841,
+          "qty": 1,
+          "name": "cash",
+          "price": 15000,
+          "category": "Custom"
+        }
+      ],
+      "total": 33000,
+      "subtotal": 0,
+      "tax": 0,
+      "paymentMethod": "Cash",
+      "billType": "Tax Invoice",
+      "status": "active"
+    }
+  ],
+  "purchases": [
+    {
+      "id": "1",
+      "supplier": "ITC Ltd.",
+      "date": "11 Jul 2026",
+      "items": 6,
+      "amount": 20631,
+      "status": "received",
+      "billFile": ""
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Vishnu Mohan Rao",
+      "username": "admin",
+      "password": "admin",
+      "role": "Admin",
+      "status": "active",
+      "permissions": {
+        "dashboard": true,
+        "pos": true,
+        "products": true,
+        "inventory": true,
+        "purchases": true,
+        "customers": true,
+        "reports": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Sunita Bai",
+      "username": "sunita",
+      "password": "staff123",
+      "role": "Cashier",
+      "status": "active",
+      "permissions": {
+        "dashboard": false,
+        "pos": true,
+        "products": false,
+        "inventory": true,
+        "purchases": false,
+        "customers": true,
+        "reports": false
+      }
+    },
+    {
+      "id": 3,
+      "name": "Amit Sharma",
+      "username": "amit",
+      "password": "staff123",
+      "role": "Staff",
+      "status": "active",
+      "permissions": {
+        "dashboard": false,
+        "pos": false,
+        "products": true,
+        "inventory": true,
+        "purchases": true,
+        "customers": false,
+        "reports": false
+      }
+    }
+  ]
+}
